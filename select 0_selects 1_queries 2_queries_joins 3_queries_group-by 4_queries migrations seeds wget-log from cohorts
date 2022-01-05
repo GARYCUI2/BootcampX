@@ -1,0 +1,17 @@
+                      List of relations
+ Schema |             Name              |   Type   |  Owner  
+--------+-------------------------------+----------+---------
+ public | assignment_submissions        | table    | vagrant
+ public | assignment_submissions_id_seq | sequence | vagrant
+ public | assignments                   | table    | vagrant
+ public | assignments_id_seq            | sequence | vagrant
+ public | assistance_requests           | table    | vagrant
+ public | assistance_requests_id_seq    | sequence | vagrant
+ public | cohorts                       | table    | vagrant
+ public | cohorts_id_seq                | sequence | vagrant
+ public | students                      | table    | vagrant
+ public | students_id_seq               | sequence | vagrant
+ public | teachers                      | table    | vagrant
+ public | teachers_id_seq               | sequence | vagrant
+(12 rows)
+
